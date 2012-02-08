@@ -6,7 +6,7 @@
  * @author andromajid.com
  */
 /*
-Plugin Name: word_removal
+Plugin Name: word removal
 Plugin URI: http://andromajid.com/
 Description: Plugin buat mengganti kata2 sensor di post maupun di comment
 Version: 0.1
